@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TheSteelEagle
+- 👀 I’m interested in Real Life Applications using python
+- 🌱 I’m currently learning about different Python Libraries like OpenCV, Pygame etc
